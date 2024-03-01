@@ -11,7 +11,7 @@ function App() {
 	return (
 		<>
 			<div>
-				<h1>
+				<h1 className='title'>
 					PROJECT <span className='text-accent'>STARTER</span>
 				</h1>
 

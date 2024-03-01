@@ -28,6 +28,13 @@
   color: #E2B627;
 }
 
+.title {
+  text-decoration: underline;
+  text-decoration-color: #E2B627;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 4px;
+}
+
 .link {
   color: #E2B627;
   transition: 300ms;

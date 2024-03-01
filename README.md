@@ -44,3 +44,16 @@ yarn add react-icons
 
 yarn add @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ```
+
+---
+
+## Link existing project to github repository
+
+```
+git init 
+git add . 
+git commit -m "Project Starter" 
+git branch -M main 
+git remote add origin https://github.com/YvanBlanchette/[REPO_NAME].git
+git push -u origin main
+```

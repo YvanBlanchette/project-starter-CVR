@@ -12,6 +12,7 @@ The dependencies includes :
 - Dexie react hooks
 
 You can get in touch: https://yvanblanchette.com
+
 Github repository : https://github.com/YvanBlanchette/project-starter-CVR/
 
 ---
